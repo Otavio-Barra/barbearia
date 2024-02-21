@@ -6,7 +6,7 @@ uma landing page com intuito de praticar HTML e CSS.
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final](https://aluramidi-curso.vercel.app/](https://stalwart-cannoli-193810.netlify.app).
+[Veja o projeto final](https://stalwart-cannoli-193810.netlify.app).
 
 ## 🛠️ Abrir e rodar o projeto
 
